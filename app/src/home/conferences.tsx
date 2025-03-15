@@ -108,7 +108,7 @@ const Conferences: FC = () => {
             image={data.eddd.childImageSharp.gatsbyImageData}
             location="Denver, United States"
             date="April 14-17 2025"
-            website="http://exploreddd.com/"
+            website="https://exploreddd.com/"
           />
           <Conference
             name="Domain-Driven Design Europe"
