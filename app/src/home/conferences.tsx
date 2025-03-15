@@ -100,21 +100,21 @@ const Conferences: FC = () => {
             name="KanDDDinsky"
             image={data.kddd.childImageSharp.gatsbyImageData}
             location="Berlin, Germany"
-            date="Oct 4-6 2023"
+            date="Oct 22-24 2025"
             website="https://kandddinsky.de/"
           />
           <Conference
             name="Explore DDD"
             image={data.eddd.childImageSharp.gatsbyImageData}
             location="Denver, United States"
-            date="March 12-15 2024"
+            date="April 14-17 2025"
             website="http://exploreddd.com/"
           />
           <Conference
             name="Domain-Driven Design Europe"
             image={data.dddeu.childImageSharp.gatsbyImageData}
-            location="Amsterdam, Netherlands"
-            date="May 27-30 2024"
+            location="Antwerp, Belgium"
+            date="June 4-6 2025"
             website="https://dddeurope.com/"
           />
         <Conference
